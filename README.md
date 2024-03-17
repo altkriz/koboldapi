@@ -31,5 +31,5 @@ Contributions to this repository are welcome. Feel free to fork the repository, 
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the code as per the terms of the license.
 
-For more information and support, refer to the [KoboldCpp API documentation](https://koboldai-koboldcpp-tiefighter.hf.space/docs).
+For more information and support, refer to the [KoboldCpp API documentation](https://koboldai-koboldcpp-tiefighter.hf.space/api).
 
